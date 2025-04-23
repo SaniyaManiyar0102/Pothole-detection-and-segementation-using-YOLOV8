@@ -1,0 +1,47 @@
+# Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment
+venv/
+env/
+*.env
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints
+
+# Model and training files
+*.h5
+*.pt
+*.pth
+*.onnx
+*.ckpt
+*.weights
+
+# Dataset files
+data/
+
+# Logs
+logs/
+
+# Temporary files
+*.log
+*.tmp
+*.bak
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Google Colab-specific files
+*.colab
+
+# Other
+*.csv
+*.json
+*.xml
