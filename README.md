@@ -33,10 +33,3 @@ Pothole_Segmentation/
 └── sample_video.mp4     # Sample video to test model
 
 
-## Clone the Repository
-
-You can clone this repository using the following command:
-
-git clone https://github.com/SaniyaManiyar0102/Pothole-detection-and-segementation-using-YOLOV8.git
-
-pip install -r requirements.txt
